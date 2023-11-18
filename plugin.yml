@@ -1,0 +1,6 @@
+---
+name: MultiVersion
+version: 0.0.1
+main: MultiVersion\Loader
+api: 5.0.0
+...
